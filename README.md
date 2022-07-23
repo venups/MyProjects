@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venups
 - 👀 I’m interested in learning trending Machine Learning Topics and deploy in the field on Civil/Structural Engineering
-- 🌱 I’m currently learning Basic Machine Learning Techniques and Neural Netoworks 
+- 🌱 I’m currently learning several Machine Learning models and deep learning topics 
 - 💞️ I’m looking to collaborate on any Civil/Structural engineering machine learning related projects.  
 
 <!---
